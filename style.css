@@ -1,0 +1,31 @@
+html {
+font-size: 10px; /*означает, что шрифт будет 10 пикселей в высоту*/
+font-family: 'Merriweather', serif;
+background-color: #D1E0EF;
+}
+body{
+	border: 5px solid darkblue;
+	width: 600px;
+	margin: 0 auto;
+	background-color: #BCC1C1;
+	padding: 0 20px 20px 20px;
+}
+
+
+
+h1 {
+font-size: 60px;
+text-align: center;
+text-shadow: 3px 5px 7px black;/*смещение по вертикали, смещение по горизонтали, радиус размытия*/ 	
+}
+p, li {
+font-size: 16px;
+line-height: 2; /*не 2px, а 2!*/
+letter-spacing: 1px;	
+}
+
+img{
+width: 500px;
+display:block;
+margin: 0 auto;	
+}
